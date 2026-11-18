@@ -1,0 +1,6 @@
+{
+  "name": "HadirKu",
+  "description": "Aplikasi absensi pintar untuk mencatat kehadiran harian, riwayat jam kerja, rekap bulanan, dan pengajuan izin secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
